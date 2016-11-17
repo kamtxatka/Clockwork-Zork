@@ -1,0 +1,15 @@
+﻿  Clock.cpp
+  Creature.cpp
+  Entity.cpp
+  Exit.cpp
+  Globals.cpp
+  Item.cpp
+  Main.cpp
+  Player.cpp
+  Room.cpp
+  World.cpp
+  Generating code
+  Finished generating code
+  All 344 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  ClockOnTime.vcxproj -> C:\Users\Pau\Documents\Visual Studio 2015\Projects\ClockOnTime\Release\ClockOnTime.exe
+  ClockOnTime.vcxproj -> C:\Users\Pau\Documents\Visual Studio 2015\Projects\ClockOnTime\Release\ClockOnTime.pdb (Full PDB)
