@@ -9,8 +9,7 @@ to the end. Actually its more of an ultra-mini puzle than a zork.
 
 
 ##  Map
-The map has 6 rooms but its nos complexly connected.
-
+The map has 6 rooms conected in this order: your house, a circular plaza/square.  From this point you can get to 4 other rooms, north/east/south/west city. It depends on a trick (explained in wlakthrough!). The last room, the forge is connected to the north city. A map wouldn't help much...
 
 ##  Gameplay mechanichs
 You can:
@@ -18,7 +17,7 @@ You can:
 * /go -direction-
 * /-direction- (to write less)
 * /take -something-
-* /drop -something
+* /drop -something-
 * /settime -clockname- -hour-
 
 
