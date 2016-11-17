@@ -26,7 +26,7 @@ You can:
 Its a game about a mini-puzle. It can be confusing so here goes the answer.
 In this game there are 2 exits (your house's door, and a stairway) that will have the same direction as the clock hand from the clock in your house (that's not a pickable item)
 In order to beat the game change the clock's hour in the apartment "/settime clock 12". 
-This will change the direction of 2 exits and the destination of one of them. It will get you to the north city, then to the forge where you can fin the final note.
+This will change the direction of 2 exits and the destination of one of them. It will get you to the north city, then to the forge where you can find the final note.
 
 
 ##  Items
