@@ -1,10 +1,12 @@
 ## Clockwork Zork
 This is a "tribute" to zork using some of its mechanics.
 
+
 ##  Story (Spoiler)
 You are in a 1950years-looking skyland. You wake up in your house and you have a note from a friend.
 You just have to get to another room. No combat, weapons or armour. Just a little trick to discover how to get
 to the end. Actually its more of an ultra-mini puzle than a zork.
+
 
 ##  Map
 The map has 6 rooms but its nos complexly connected.
@@ -18,6 +20,7 @@ You can:
 /take -something-
 /drop -something
 /settime -clockname- -hour-
+
 
 ##  Walkthrough guide
 Its a game about a mini-puzle. It can be confusing so here goes the answer.
