@@ -14,12 +14,12 @@ The map has 6 rooms but its nos complexly connected.
 
 ##  Gameplay mechanichs
 You can:
-/look -something-
-/go -direction-
-/-direction- (to write less)
-/take -something-
-/drop -something
-/settime -clockname- -hour-
+* /look -something-
+* /go -direction-
+* /-direction- (to write less)
+* /take -something-
+* /drop -something
+* /settime -clockname- -hour-
 
 
 ##  Walkthrough guide
